@@ -6,3 +6,5 @@ This is Mimi Artist Assistant Platform, a tool to assist beginner artists.
 <img width="579" height="376" alt="image" src="https://github.com/user-attachments/assets/32472103-5ce2-4be2-849b-8cef5d95a2ab" />
 
 社交功能似乎并不理想，打算先砍掉它。
+
+超级多的bug袭来——————
